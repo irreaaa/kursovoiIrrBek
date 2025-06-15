@@ -4,6 +4,7 @@ ktor:
       - com.example.ApplicationKt.module
   deployment:
     port: 8080
+    host: 0.0.0.0  # <-- слушаем на всех интерфейсах
 
 jwt:
   secret: "my secret value"
