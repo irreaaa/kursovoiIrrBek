@@ -51,7 +51,7 @@ object DataRepository {
                 ),
                 Sneacker(
                     id = 4,
-                    name = "Кустовые розы розовые",
+                    name = "Кустовые розы",
                     description = "zebra",
                     price =3390.0,
                     imageUrl = "mono_rose",
@@ -60,7 +60,7 @@ object DataRepository {
                 ),
                 Sneacker(
                     id = 5,
-                    name = "Красные тюльпаны 25шт",
+                    name = "Красные тюльпаны",
                     description = "monkey",
                     price = 4700.0,
                     imageUrl = "mono_toulpin_red",
@@ -69,7 +69,7 @@ object DataRepository {
                 ),
                 Sneacker(
                     id = 6,
-                    name = "Розовые тюльпаны 25шт",
+                    name = "Розовые тюльпаны",
                     description = "pig",
                     price = 4600.0,
                     imageUrl = "mono_toulip_pink",
