@@ -1,5 +1,5 @@
 import com.example.config.JwtConfig
-import com.example.dto.request.AuthResponse
+import com.example.dto.response.AuthResponse
 import com.example.dto.request.CreateUserRequest
 import com.example.dto.request.LoginRequest
 import com.example.dto.response.ErrorResponse

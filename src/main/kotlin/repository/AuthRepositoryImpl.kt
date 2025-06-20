@@ -2,7 +2,7 @@ package com.example.repository
 
 import com.auth0.jwt.JWT
 import com.auth0.jwt.algorithms.Algorithm
-import com.example.dto.request.AuthResponse
+import com.example.dto.response.AuthResponse
 import com.example.dto.request.LoginRequest
 import com.example.model.DataRepository
 import com.example.dto.request.CreateUserRequest
